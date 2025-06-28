@@ -1,0 +1,278 @@
+# ==========================
+# Geral
+# ==========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Backup de editores
+# ==========================
+*~
+*.orig
+
+# ==========================
+# Diretórios comuns
+# ==========================
+dist/
+build/
+out/
+bin/
+obj/
+target/
+coverage/
+reports/
+.idea/
+.vscode/
+.env
+.env.*
+
+# ==========================
+# Node.js / JavaScript / TypeScript
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+.eslintcache
+.next/
+.vercel/
+.cache/
+turbo/
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+pip-log.txt
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+
+# ==========================
+# Java
+# ==========================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+out/
+target/
+*.log
+*.h2.db
+
+# ==========================
+# C / C++ / C#
+# ==========================
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.out
+*.obj
+*.pdb
+*.lib
+*.vs/
+.vscode/
+Debug/
+Release/
+*.sln
+*.csproj.user
+
+# ==========================
+# Swift / iOS / macOS
+# ==========================
+*.xcodeproj/*
+*.xcworkspace/*
+*.xcuserstate
+*.xcuserdata
+*.DS_Store
+build/
+DerivedData/
+*.ipa
+*.app
+*.dSYM/
+
+# ==========================
+# Kotlin / Android
+# ==========================
+.gradle/
+.idea/
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ==========================
+# Flutter / Dart
+# ==========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.pub-cache/
+build/
+.packages
+.pubspec.lock
+
+# ==========================
+# PHP
+# ==========================
+vendor/
+composer.lock
+
+# ==========================
+# Ruby
+# ==========================
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+log/
+tmp/
+Gemfile.lock
+
+# ==========================
+# Go
+# ==========================
+bin/
+*.exe
+*.test
+*.out
+vendor/
+go.sum
+
+# ==========================
+# Rust
+# ==========================
+target/
+Cargo.lock
+
+# ==========================
+# Scala / SBT
+# ==========================
+target/
+project/target/
+project/project/
+.cache/
+lib_managed/
+src_managed/
+*.class
+
+# ==========================
+# MATLAB
+# ==========================
+*.asv
+*.m~
+*.mdl.*
+*.slxc
+*.slxp
+*.autosave
+*.mex*
+
+# ==========================
+# R
+# ==========================
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rproj
+
+# ==========================
+# Elixir
+# ==========================
+/_build/
+deps/
+erl_crash.dump
+*.ez
+*.beam
+mix.lock
+
+# ==========================
+# Haskell
+# ==========================
+dist/
+dist-newstyle/
+.cabal-sandbox/
+cabal.sandbox.config
+.stack-work/
+*.hi
+*.o
+*.prof
+*.aux
+*.hp
+*.eventlog
+
+# ==========================
+# Shell Script
+# ==========================
+*.sh~
+*.bash_history
+*.zsh_history
+
+# ==========================
+# Perl
+# ==========================
+*.pm.tdy
+*.tmp
+*.bak
+*.swp
+*.tar.gz
+*.ppd
+blib/
+_build/
+Makefile.old
+pm_to_blib
+
+# ==========================
+# Outros arquivos sensíveis
+# ==========================
+*.pem
+*.key
+*.crt
+*.pfx
+*.keystore
+*.jks
+
+# ==========================
+# Ferramentas de build e CI
+# ==========================
+.nyc_output/
+coverage/
+.jest/
+pytest_cache/
+.mypy_cache/
+.tox/
+.cache/
+.idea/
+.vscode/
+
+
+
+# Linha 1: Q(1), W(2), E(3), R(4), T(5), Y(6), U(7), I(8), O(9), P(10)
+# Linha 2: A(1), S(2), D(3), F(4), G(5), H(6), J(7), K(8), L(9)
+# Linha 3: Z(1), X(2), C(3), V(4), B(5), N(6), M(7)
+
+# Obs: O espaço entre duas palavras é representado por "00".
